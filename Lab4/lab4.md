@@ -16,7 +16,10 @@
 
 **Результат роботи фільтрації (HAVING):**
 
-
+<img width="765" height="429" alt="pic1" src="https://github.com/user-attachments/assets/cf17ee63-a7c7-40e7-8624-7101f0266fe2" />
+<img width="869" height="418" alt="pic2" src="https://github.com/user-attachments/assets/8b7b9572-5b83-499c-8c05-446d562840ff" />
+<img width="779" height="467" alt="pic3" src="https://github.com/user-attachments/assets/b2bdb971-0efb-4f44-8d41-37f7e33b47c0" />
+<img width="719" height="444" alt="pic4" src="https://github.com/user-attachments/assets/4b9683a5-2846-4156-8f0a-c568622fc973" />
 
 ---
 
@@ -30,7 +33,9 @@
 
 **Результат об'єднання трьох таблиць:**
 
-
+<img width="795" height="516" alt="pic5" src="https://github.com/user-attachments/assets/9d560b05-5e16-461f-a86b-eb3e2d80b7b1" />
+<img width="928" height="523" alt="pic6" src="https://github.com/user-attachments/assets/606e0fa5-de81-44d5-a464-bf375e3db620" />
+<img width="861" height="521" alt="pic7" src="https://github.com/user-attachments/assets/1358f6a3-ae20-4dd5-a429-36a22bbdf97b" />
 
 ---
 
@@ -44,3 +49,6 @@
 
 **Результат підзапиту в SELECT (підрахунок візитів):**
 
+<img width="788" height="472" alt="pic8" src="https://github.com/user-attachments/assets/e976d3b6-94fe-46c1-a818-b4437e231d39" />
+<img width="940" height="520" alt="pic9" src="https://github.com/user-attachments/assets/13738bc2-1044-495f-bf72-c30b42e37297" />
+<img width="876" height="450" alt="pic10" src="https://github.com/user-attachments/assets/1399eb20-b6ae-4e46-a7f6-116160672f0c" />
