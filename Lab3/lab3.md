@@ -21,6 +21,7 @@
 ### Результати виконання 
 Нижче наведено скриншоти результатів, в тому числі й фінального запиту `SELECT * FROM Appointment;`, який підтверджує успішне додавання 5 рядків та оновлення поля `diagnosis`:
 
-! (screenshots/appointments_result.jpeg)
-! (screenshots/patient_result.jpeg)
-! (screenshots/diagnosis_update.jpeg)
+<img width="792" height="220" alt="appointments_result" src="https://github.com/user-attachments/assets/d81be723-19f5-4f00-bcdc-f653e543dc03" />
+<img width="1280" height="391" alt="patient_result" src="https://github.com/user-attachments/assets/f930bb3d-9dff-4211-adac-d800a8966add" />
+<img width="1280" height="369" alt="diagnosis_update" src="https://github.com/user-attachments/assets/58e8d762-a8cd-481b-8bb6-fb321a0a3e96" />
+
